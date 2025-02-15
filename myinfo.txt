@@ -6,4 +6,8 @@ hii
 changed for git hub
 satya sshdh
 dfghfd
+<<<<<<< HEAD
 i am on satya branch learning git hub
+=======
+i am on satyabranch learning git hub
+>>>>>>> satya
